@@ -3,16 +3,16 @@ var quizQuestions = [
         question: "If you had the following options which would you choose?",
         answers: [
             {
-                type: "Ability to Fly",
-                content: "Skyrocket to the Moon"
+                type: "hot",
+                content: "Ability to Fly"
             },
             {
-                type: "Forecast the Future",
-                content: "Collect Data for mining"
+                type: "crazy",
+                content: "Forecast the Future"
             },
             {
-                type: "Return to one point of your past",
-                content: "Access Time machine travel"
+                type: "crazy",
+                content: "Return to one point of your past"
             }
         ]
     }

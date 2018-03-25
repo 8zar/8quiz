@@ -13,7 +13,12 @@ create-react-app my-app
 
 ```
 
+1. deploy to gh-pages
+```bash
 
+cd app && npm run deploy 
+
+```
 
 
 ##
